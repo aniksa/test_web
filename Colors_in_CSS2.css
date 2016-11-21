@@ -1,4 +1,4 @@
-﻿body
+body
 {
 	background-color:Peru;
 }
@@ -8,9 +8,9 @@ div
 }
 h2
 {
-	color:#C71585;
+	color:#c71585;
 }
-/*.table-bordered
+.table-bordered
 {
 	background-color:#FFFFFF;
 }
@@ -18,7 +18,7 @@ thead
 {
 	font-size:20px;
 	color: #4B0082;
-}*/
+}
 .c1
 {
 	color: #FF0000 ;
